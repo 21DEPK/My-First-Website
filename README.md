@@ -1,2 +1,4 @@
 # My-First-Website
-Beginnner level in HTML and CSS project
+HTML and CSS project (Beginner Level)
+<br>
+Author: DEEPAK
